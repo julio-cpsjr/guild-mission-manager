@@ -1,5 +1,5 @@
 
-# 🏰 Guild Mission Manager
+# 🏰 Gerenciador de Ordens da Guilda
 
 Sistema backend para gerenciamento de **missões de uma guilda**, inspirado no universo de *Sword Art Online*, desenvolvido com **Java**, **JDBC** e **SQLite**, com foco em fundamentos sólidos de backend e regras de negócio.
 
